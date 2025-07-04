@@ -20,7 +20,7 @@ It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **Cha
 | Frontend    | React.js + Google Maps JavaScript API  
 | Backend     | Node.js + Express  
 | Database    | Firebase (Firestore + Storage)  
-| AI          | OpenAI ChatGPT API  
+| AI          | Gemini API  
 | Messaging   | Twilio or WhatsApp Business API  
 
 ## 🗂️ Repository Structure
