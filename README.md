@@ -1,4 +1,4 @@
-![Copilot_20250705_040025](https://github.com/user-attachments/assets/056cf23f-4df6-4718-9535-81b4f617f09e)# CleanTrack 🗺️🧹  
+# CleanTrack 🗺️🧹  
 Smart Garbage Collection Tracker — Built for Civic Impact
 
 ## 🚀 Overview
