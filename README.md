@@ -4,7 +4,7 @@ Smart Garbage Collection Tracker — Built for Civic Impact
 ## 🚀 Overview
 CleanTrack is a web-based civic-tech platform that tackles improper garbage collection using geolocation, real-time messaging, and AI-powered reporting.
 
-It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **ChatGPT API** to map bin statuses, optimize pickup routes, and empower citizens to report issues easily.
+It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **Gemini API** to map bin statuses, optimize pickup routes, and empower citizens to report issues easily.
 
 ## 🧩 Features
 - 🗺️ Live garbage bin mapping with status overlays  
