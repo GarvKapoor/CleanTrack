@@ -30,5 +30,6 @@ It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **Cha
 /functions → Firebase Cloud Functions for triggers 
 ## 🖼️ UI Images
 ![Copilot_20250705_035757](https://github.com/user-attachments/assets/b8274244-bafa-4ea9-9f33-145a3a142fd0)
-![Uploading Copilot_20250705_040025.png…]()
+
+![Copilot_20250705_040025](https://github.com/user-attachments/assets/b124009b-960b-44b5-bfc5-4c3045d50c67)
 
