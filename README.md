@@ -24,3 +24,7 @@ It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **Cha
 | Messaging   | Twilio or WhatsApp Business API  
 
 ## 🗂️ Repository Structure
+/frontend → UI, Map overlays, citizen report forms 
+/backend → API routes, ChatGPT integration, alert engine 
+/data → Sample civic datasets + ML models 
+/functions → Firebase Cloud Functions for triggers 
