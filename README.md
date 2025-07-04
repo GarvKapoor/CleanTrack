@@ -1,4 +1,4 @@
-# CleanTrack 🗺️🧹  
+![Copilot_20250705_040025](https://github.com/user-attachments/assets/056cf23f-4df6-4718-9535-81b4f617f09e)# CleanTrack 🗺️🧹  
 Smart Garbage Collection Tracker — Built for Civic Impact
 
 ## 🚀 Overview
@@ -28,3 +28,7 @@ It integrates **Google Maps API**, **Messages API (WhatsApp/Twilio)**, and **Cha
 /backend → API routes, ChatGPT integration, alert engine 
 /data → Sample civic datasets + ML models 
 /functions → Firebase Cloud Functions for triggers 
+## 🖼️ UI Images
+![Copilot_20250705_035757](https://github.com/user-attachments/assets/b8274244-bafa-4ea9-9f33-145a3a142fd0)
+![Uploading Copilot_20250705_040025.png…]()
+
