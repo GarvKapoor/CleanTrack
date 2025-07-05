@@ -1,0 +1,21 @@
+<!-- Save this as landing-illustration.svg inside public/assets/ -->
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#e8f5e9" />
+  
+  <!-- Ground -->
+  <rect y="260" width="400" height="40" fill="#c8e6c9" />
+  
+  <!-- Buildings -->
+  <rect x="50" y="130" width="60" height="130" fill="#aed581" />
+  <rect x="130" y="110" width="40" height="150" fill="#9ccc65" />
+  <rect x="190" y="90" width="50" height="170" fill="#7cb342" />
+  <rect x="260" y="140" width="30" height="120" fill="#689f38" />
+  <rect x="310" y="100" width="40" height="160" fill="#558b2f" />
+
+  <!-- Bin -->
+  <rect x="180" y="230" width="40" height="30" fill="#2e7d32" rx="4" />
+  <rect x="186" y="220" width="28" height="10" fill="#66bb6a" rx="2" />
+  
+  <!-- Sun -->
+  <circle cx="340" cy="60" r="30" fill="#ffeb3b" />
+</svg>
